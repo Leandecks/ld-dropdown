@@ -1,0 +1,22 @@
+{
+  "name": "ld-dropdown",
+  "version": "1.0.0",
+  "description": "Dropdown module for easy implementation in HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandecks/ld-dropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Leandecks <leandrogridelli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leandecks/ld-dropdown/issues"
+  },
+  "homepage": "https://github.com/Leandecks/ld-dropdown#readme"
+}
